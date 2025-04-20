@@ -34,7 +34,6 @@ Welcome to my GitHub! I'm passionate about building clean, user-friendly interfa
 | 💱 Currency Converter | Real-time currency conversion using exchange rate API. | Python, Requests | [View Code](#) |
 | ✍️ Text Editor | A clean and modern-looking text editor using Tkinter GUI. | Python, Tkinter | [View Code](#) |
 | ✅ To-Do List CLI | Simple CLI-based To-Do List with options to add/remove tasks. | Python | [View Code](#) |
-| 🔥 Front-End Final Project (React) | *(تقدر تضيفه لاحقًا لما تبدأ الجزء الخاص بـ React)* | React, JavaScript, CSS | Soon... |
 
 ## ✨ Fun Fact
 > I love learning with ChatGPT and turning challenges into real-world projects.
